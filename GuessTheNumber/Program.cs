@@ -44,6 +44,7 @@ namespace GuessTheNumber
             }
 
             Console.WriteLine("Thank you for playing Guess the Number!");
+            
         }
     }
 }
